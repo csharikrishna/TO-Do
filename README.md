@@ -354,4 +354,4 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed description
 3. Contact the maintainers
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by CS HARI KRISHNA**
