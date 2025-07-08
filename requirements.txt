@@ -1,0 +1,29 @@
+
+STEP 1 : 
+
+Environment variables :
+
+client : 
+REACT_APP_API_URL=http://localhost:5000/api
+
+server :
+MONGO_URL=mongodb://localhost:27017/todoapp
+JWT_SECRET=your_super_secret_jwt_key_make_it_long_and_secure
+EMAIL_USER=your.email@gmail.com
+EMAIL_PASS=your_gmail_app_password
+PORT=5000
+
+STEP 2 : 
+
+SERVER INSTALATIONS : 
+cd server
+npm init -y
+npm install express mongoose cors dotenv bcryptjs jsonwebtoken nodemailer node-cron
+npm install -D nodemon
+
+CLIENT INSTALATIONS : 
+cd client
+npx create-react-app .
+npm install axios react-router-dom
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
