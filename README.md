@@ -44,7 +44,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/taskmanager-fullstack.git
+[git clone https://github.com/yourusername/taskmanager-fullstack.git](https://github.com/csharikrishna/TO-Do.git)
 cd taskmanager-fullstack
 ```
 
